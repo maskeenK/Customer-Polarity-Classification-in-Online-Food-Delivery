@@ -1,0 +1,2 @@
+# Customer-Polarity-Classification-in-Online-Food-Delivery
+Enhanced the KNN Algorithm by building upon its voting algorithm – this was achieved by implementing an inverse distance based weighted algorithm. The model predicted customer purchasing decision in the online food delivery industry by studying a real time dataset, visualizing it to gain insights and identifying features that play a key role in decision making. An overall improvement of 2% giving a 96 % accuracy score as opposed to 94 % accuracy achieved using the standard KNN algorithm.
